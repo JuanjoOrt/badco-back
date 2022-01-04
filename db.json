@@ -1,0 +1,43 @@
+{
+    "users": {
+        "1": {
+            "name": "Juanjo test",
+            "created_date": "10/12/12",
+            "address": "Avd Julian Camarillo" 
+        }
+    },
+    "products": [
+        {
+            "id": "10001",
+            "name": "Camiseta 01",
+            "price": "100",
+            "image": "holiwi.png",
+            "image_hover": "holiwi2.png"           
+        },
+        {
+            "id": "10002",
+            "name": "Camiseta 02",
+            "price": "110",
+            "image": "holiwi.png",
+            "image_hover": "holiwi2.png"           
+        }
+    ],
+    "details" : [
+        {
+            "id": "10001",
+            "name": "Camiseta 01",
+            "price": "100",
+            "images": ["image01.png", "image02.png", "image03.png"],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s", "m", "l", "xl"]
+        },
+        {
+            "id": "10002",
+            "name": "Camiseta 02",
+            "price": "110",
+            "images": ["image01.png", "image02.png", "image03.png"],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["m", "l", "xl"]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "badco-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --port 3002",
+    "start:watch": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanjoOrt/badco-back.git"
+  },
+  "author": "Juanjo Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanjoOrt/badco-back/issues"
+  },
+  "homepage": "https://github.com/JuanjoOrt/badco-back#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
