@@ -1,11 +1,12 @@
 {
-    "users": {
-        "1": {
+    "users": [
+        {
+            "id": "1",
             "name": "Juanjo test",
             "created_date": "10/12/12",
             "address": "Avd Julian Camarillo" 
         }
-    },
+    ],
     "products": [
         {
             "id": "10001",
