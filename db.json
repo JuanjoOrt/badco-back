@@ -4,41 +4,171 @@
             "id": "1",
             "name": "Juanjo test",
             "created_date": "10/12/12",
-            "address": "Avd Julian Camarillo" 
+            "address": "Avd Julian Camarillo"
         }
     ],
     "products": [
         {
             "id": "10001",
-            "name": "Camiseta 01",
-            "price": "100",
-            "image": "holiwi.png",
-            "image_hover": "holiwi2.png"           
+            "name": "Sudadera Capucha Washed Fire Tiger",
+            "price": "75,90 €",
+            "image": "https://i.imgur.com/McJYr4S.jpg"
         },
         {
             "id": "10002",
-            "name": "Camiseta 02",
-            "price": "110",
-            "image": "holiwi.png",
-            "image_hover": "holiwi2.png"           
+            "name": "Sudadera Neo Ivory",
+            "price": "59,90 €",
+            "image": "https://i.imgur.com/7PP5Rce.jpg"
+        },
+        {
+            "id": "10003",
+            "name": "Sudadera Cap. Whased Virgin Steel",
+            "price": "69,90 €",
+            "image": "https://i.imgur.com/WgAhwdQ.jpg"
+        },
+        {
+            "id": "10004",
+            "name": "Camiseta Washed Nevermind Blanca",
+            "price": "29,90 €",
+            "image": "https://i.imgur.com/Yq0AxJU.jpg"
+        },
+        {
+            "id": "10005",
+            "name": "Camiseta Washed Virgin Acero",
+            "price": "26,90 €",
+            "image": "https://i.imgur.com/t7NY5A8.jpg"
+        },
+        {
+            "id": "10006",
+            "name": "Camiseta Washed Your Future Blanca",
+            "price": "26,90 €",
+            "image": "https://i.imgur.com/m5SBcyO.jpg"
+        },
+        {
+            "id": "10007",
+            "name": "Sudadera Brigid Marino",
+            "price": "55,90 €",
+            "image": "https://i.imgur.com/AIyWQBd.jpg"
+        },
+        {
+            "id": "10008",
+            "name": "Sudadera Capucha Washed Fire Tiger",
+            "price": "75,90 €",
+            "image": "https://i.imgur.com/celLH8Z.jpg"
         }
     ],
     "details" : [
         {
             "id": "10001",
-            "name": "Camiseta 01",
-            "price": "100",
-            "images": ["image01.png", "image02.png", "image03.png"],
+            "name": "Sudadera Capucha Washed Fire Tiger",
+            "price": "75,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/HRRyGKu.jpg",
+                "https://i.imgur.com/NkhzpW1.jpg",
+                "https://i.imgur.com/McJYr4S.jpg",
+                "https://i.imgur.com/PfQXCwZ.jpg",
+                "https://i.imgur.com/r24lZzB.jpg"
+            ],
             "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
             "sizes_avaliable": ["xs", "s", "m", "l", "xl"]
         },
         {
             "id": "10002",
-            "name": "Camiseta 02",
-            "price": "110",
-            "images": ["image01.png", "image02.png", "image03.png"],
+            "name": "Sudadera Neo Ivory",
+            "price": "59,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/cq4ZB8a.jpg",
+                "https://i.imgur.com/b2HpSlc.jpg",
+                "https://i.imgur.com/kK62PC1.jpg",
+                "https://i.imgur.com/7PP5Rce.jpg",
+                "https://i.imgur.com/9481JU7.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "m", "l", "xl"]
+        },
+        {
+            "id": "10003",
+            "name": "Sudadera Cap. Whased Virgin Steel",
+            "price": "69,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/31gdjg9.jpg",
+                "https://i.imgur.com/e4A8p9p.jpg",
+                "https://i.imgur.com/WgAhwdQ.jpg",
+                "https://i.imgur.com/VEuEs5V.jpg",
+                "https://i.imgur.com/rt3lDZR.jpg"
+
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "l", "xl"]
+        },
+        {
+            "id": "10004",
+            "name": "Camiseta Washed Nevermind Blanca",
+            "price": "29,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/thDJ5ha.jpg",
+                "https://i.imgur.com/Yq0AxJU.jpg",
+                "https://i.imgur.com/80A6LXg.jpg",
+                "https://i.imgur.com/KXZA1pU.jpg",
+                "https://i.imgur.com/33iuFsO.jpg",
+                "https://i.imgur.com/2WedX8W.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s", "m", "xl"]
+        },
+        {
+            "id": "10005",
+            "name": "Camiseta Washed Virgin Acero",
+            "price": "26,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/vO31tqL.jpg",
+                "https://i.imgur.com/t7NY5A8.jpg",
+                "https://i.imgur.com/DpaSsx4.jpg",
+                "https://i.imgur.com/DSN9azA.jpg",
+                "https://i.imgur.com/h1yAMWt.jpg",
+                "https://i.imgur.com/P2bYZgs.jpg",
+                "https://i.imgur.com/kBudydH.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s", "m", "l", "xl"]
+        },
+        {
+            "id": "10006",
+            "name": "Camiseta Washed Your Future Blanca",
+            "price": "26,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/m5SBcyO.jpg",
+                "https://i.imgur.com/M6r36Zo.jpg",
+                "https://i.imgur.com/bOLKqsz.jpg",
+                "https://i.imgur.com/qmlpFUG.jpg",
+                "https://i.imgur.com/c9LQrjA.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["s"]
+        },
+        {
+            "id": "10007",
+            "name": "Sudadera Brigid Marino",
+            "price": "55,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/AIyWQBd.jpg",
+                "https://i.imgur.com/3WORxUe.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s", "m"]
+        },
+        {
+            "id": "10008",
+            "name": "Sudadera Capucha Washed Fire Tiger",
+            "price": "75,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/celLH8Z.jpg",
+                "https://i.imgur.com/vmpF53K.jpg",
+                "https://i.imgur.com/iedFHyR.jpg",
+                "https://i.imgur.com/sxI8YA7.jpg"
+            ],
             "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
             "sizes_avaliable": ["m", "l", "xl"]
-        }
+        },
     ]
 }
