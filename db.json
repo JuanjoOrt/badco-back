@@ -79,6 +79,18 @@
             "name": "Chaqueta The Hundreds Wale Coaches",
             "price": "139,99 €",
             "image": "https://i.imgur.com/PzQsA3u.jpg"
+        },
+        {
+            "id": "10013",
+            "name": "Vestido Amelie Negro",
+            "price": "22,90 €",
+            "image": "https://i.imgur.com/wHLffrL.jpg"
+        },
+        {
+            "id": "10014",
+            "name": "Minifalda de Pana Jade",
+            "price": "34,90 €",
+            "image": "https://i.imgur.com/nMErrMT.jpg"
         }
     ],
     "details" : [
@@ -249,6 +261,32 @@
             ],
             "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
             "sizes_avaliable": ["xl"]
+        },
+        {
+            "id": "10013",
+            "name": "Vestido Amelie Negro",
+            "price": "22,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/wHLffrL.jpg",
+                "https://i.imgur.com/KN0lYDE.jpg",
+                "https://i.imgur.com/bUisu1Q.jpg",
+                "https://i.imgur.com/CnxEp72.jpg",
+                "https://i.imgur.com/J8XkC7d.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s"]
+        },
+        {
+            "id": "10014",
+            "name": "Minifalda de Pana Jade",
+            "price": "34,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/nMErrMT.jpg",
+                "https://i.imgur.com/2bWumpL.jpg",
+                "https://i.imgur.com/GMkyPDP.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["m", "xl"]
         }
     ]
 }
