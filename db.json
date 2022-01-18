@@ -55,6 +55,30 @@
             "name": "Sudadera Capucha Washed Fire Tiger",
             "price": "75,90 €",
             "image": "https://i.imgur.com/celLH8Z.jpg"
+        },
+        {
+            "id": "10009",
+            "name": "Camisa Revolution Army",
+            "price": "99,95 €",
+            "image": "https://i.imgur.com/ubaVypp.jpg"
+        },
+        {
+            "id": "10010",
+            "name": "Camisa Rayas",
+            "price": "49,90 €",
+            "image": "https://i.imgur.com/lbLbMpc.jpg"
+        },
+        {
+            "id": "10011",
+            "name": "Chaqueta Revolution Army",
+            "price": "159,95 €",
+            "image": "https://i.imgur.com/579qJfL.jpg"
+        },
+        {
+            "id": "10012",
+            "name": "Chaqueta The Hundreds Wale Coaches",
+            "price": "139,99 €",
+            "image": "https://i.imgur.com/PzQsA3u.jpg"
         }
     ],
     "details" : [
@@ -169,6 +193,62 @@
             ],
             "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
             "sizes_avaliable": ["m", "l", "xl"]
+        },
+        {
+            "id": "10009",
+            "name": "Camisa Revolution Army",
+            "price": "99,95 €",
+            "imageGallery": [
+                "https://i.imgur.com/ubaVypp.jpg",
+                "https://i.imgur.com/jkN108X.jpg",
+                "https://i.imgur.com/gF89fsK.jpg",
+                "https://i.imgur.com/bHarEaG.jpg",
+                "https://i.imgur.com/p20uxCu.jpg",
+                "https://i.imgur.com/YvAXU4W.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["s", "m", "xl"]
+        },
+        {
+            "id": "10010",
+            "name": "Camisa Rayas",
+            "price": "49,90 €",
+            "imageGallery": [
+                "https://i.imgur.com/rDC13Cs.jpg",
+                "https://i.imgur.com/gTAYuKe.jpg",
+                "https://i.imgur.com/lbLbMpc.jpg",
+                "https://i.imgur.com/HtkFIMG.jpg",
+                "https://i.imgur.com/4U7dgC5.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["l", "xl"]
+        },
+        {
+            "id": "10011",
+            "name": "Chaqueta Revolution Army",
+            "price": "159,95 €",
+            "imageGallery": [
+                "https://i.imgur.com/579qJfL.jpg",
+                "https://i.imgur.com/U9wQr0O.jpg",
+                "https://i.imgur.com/Gyquf22.jpg",
+                "https://i.imgur.com/NbUFjei.jpg",
+                "https://i.imgur.com/zlGJFzd.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xs", "s", "xl"]
+        },
+        {
+            "id": "10012",
+            "name": "Chaqueta The Hundreds Wale Coaches",
+            "price": "139,99 €",
+            "imageGallery": [
+                "https://i.imgur.com/PzQsA3u.jpg",
+                "https://i.imgur.com/Tk4bNp6.jpg",
+                "https://i.imgur.com/3Sj9dsk.jpg",
+                "https://i.imgur.com/oxTzMM7.jpg"
+            ],
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.",
+            "sizes_avaliable": ["xl"]
         }
     ]
 }
