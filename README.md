@@ -2,6 +2,6 @@
 
 live server: https://badco.herokuapp.com/
 
-- Users : https://badco.herokuapp.com/users
+- Orders : https://badco.herokuapp.com/orders
 - Products: https://badco.herokuapp.com/products
 - Detail Product: https://badco.herokuapp.com/details
