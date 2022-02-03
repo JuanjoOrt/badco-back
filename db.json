@@ -1,10 +1,13 @@
 {
-    "users": [
+    "orders": [
         {
             "id": "1",
-            "name": "Juanjo test",
+            "userId": "001",
             "created_date": "10/12/12",
-            "address": "Avd Julian Camarillo"
+            "address": "Avd Julian Camarillo",
+            "country": "España",
+            "orders": [],
+            "totalPrice": 67.2
         }
     ],
     "products": [
