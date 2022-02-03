@@ -1,15 +1,5 @@
 {
-    "orders": [
-        {
-            "id": "1",
-            "userId": "001",
-            "created_date": "10/12/12",
-            "address": "Avd Julian Camarillo",
-            "country": "España",
-            "orders": [],
-            "totalPrice": 67.2
-        }
-    ],
+    "orders": [],
     "products": [
         {
             "id": "10001",
